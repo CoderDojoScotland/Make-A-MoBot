@@ -5,7 +5,7 @@ A MoBot game using Scratch and the Microsoft Kinect controller <br/>
 
 
 ## How to use 
-Download the Switched on Futures Make A Mobot [instructions and lesson plan](http://www.coderdojoscotland.com/files/makeamobot_lessonplan.pdf).
+Download the Switched on Futures Make A Mobot [instructions and lesson plan](http://www.coderdojoscotland.com/makeamobot/files/makeamobot_lessonplan.pdf).
 	
 
 You'll also need to download and install a couple of programs:
